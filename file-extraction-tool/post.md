@@ -8,8 +8,8 @@
 • ⚡ Lightning-fast conversions
 • 📱 Fully responsive design
 
-🔗 Try it out: [link-to-your-github-pages]
-📦 GitHub Repo: github.com/kaiiddo/file-extraction-tool
+🔗 Try it out: [[link-to-your-github-pages]](https://kaiiddo.github.io/file-extraction-tool/src)
+📦 GitHub Repo: [github.com/kaiiddo/file-extraction-tool](https://github.com/Kaiiddo/kaiiddo.github.io/tree/main/file-extraction-tool)
 
 #OpenSource #WebDevelopment #JavaScript #TailwindCSS #DeveloperCommunity #FileConversion #WebTools
 
