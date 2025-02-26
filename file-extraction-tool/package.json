@@ -1,0 +1,11 @@
+file-extraction-tool
+├── src
+│   ├── js
+│   │   ├── app.js
+│   │   └── fileHandler.js
+│   ├── styles
+│   │   └── main.css
+│   └── index.html
+├── package.json
+├── tailwind.config.js
+└── README.md
