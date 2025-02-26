@@ -13,7 +13,7 @@
 ## Quick Start 🎯
 
 ```bash
-git clone https://github.com/yourusername/file-extraction-tool.git
+https://github.com/Kaiiddo/kaiiddo.github.io/tree/main/file-extraction-tool
 cd file-extraction-tool
 npm install
 npm start
